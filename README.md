@@ -1,0 +1,1 @@
+This project is my first major project for the Odin Project. Through this project, I will demonstrate all that I have learned so far through the Foundations section of the Odin Project.
